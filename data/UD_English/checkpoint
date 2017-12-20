@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/UD_English/eng.checkpoint"
+all_model_checkpoint_paths: "/data/UD_English/eng.checkpoint"
